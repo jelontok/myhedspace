@@ -1,0 +1,76 @@
+/* css by jose erlino lontok*/
+html, body, #main{
+margin:0;
+padding:0;
+width:100%;
+height:100%;
+}
+body {
+background-image:url(images/body_flowers.jpg);
+background-repeat:repeat-x;
+font-family:"Trebuchet MS", Verdana, sans-serif;
+font-size:12px;
+color:#666666;
+}
+#main {
+background-image:url(images/body_bottom_bg.jpg);
+background-repeat:repeat-x;
+background-position:bottom
+}
+#wrap {
+width:800px; 
+height:100%;
+margin:0 auto;
+}
+#wrap h1 {
+font-family:"Trebuchet MS", Verdana, sans-serif;
+font-size:30px;
+color:#F66D03;
+border-bottom: 1px #8F9413 solid;
+padding-top:60px;
+margin:0;
+}
+#wrap h1 span {
+color:#8F9413;
+}
+#content {
+height:65%;
+overflow:auto;
+}
+#content a {
+color:#F66D03;
+text-decoration:none;
+}
+#content h2 {
+font-family:"Trebuchet MS", Verdana, SansSerif;
+font-size:16px;
+color:#8F9413;
+}
+ul {
+list-style-type:none;
+text-align:right;
+}
+ul li {
+display:inline;
+font-size:14px;
+font-weight:bolder;
+color:#8F9413;
+margin-right:6px;
+}
+ul li a {
+text-decoration:none;
+color:#8F9413;
+}
+ul li a:hover {
+border-bottom: 4px #F66D03 solid;
+}
+#footer {
+text-align:right;
+border-top: 1px #8F9413 solid;
+font-size:12px;
+font-weight:bolder;
+}
+#footer a{
+text-decoration:none;
+color:#666666;
+}
