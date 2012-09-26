@@ -1,0 +1,105 @@
+/* CSS Document */
+body {
+background-image:url(images/bg.jpg);
+background-repeat:repeat-x;
+background-color:#3D4D64;
+text-align:center;
+margin:60px 0 0 0;
+padding:0;
+font-family: "Trebuchet MS", Verdana, Arial, Helvetica, bitstream vera, sans-serif;
+height:100%;
+}
+#header {
+width:750px;
+text-align:left;
+margin:0 auto;
+}
+#main_photo {
+width:515px;
+height:155px;
+background-image:url(images/main_photo.jpg);
+}
+#header h1{
+color:#FFFFFF;
+font: 25px "Century Gothic", "Trebuchet MS", Verdana, Arial, Helvetica, bitstream vera, sans-serif;
+margin-bottom:5px;
+}
+.h1_shade {
+color:#6A829E;
+}
+#wrap {
+width:750px;
+margin:0 auto;
+text-align:left;
+display:table;
+}
+#content {
+padding: 10px 7px 0 7px;
+height:100%;
+float:left;
+display:table;
+background-color:#FFFFFF;
+}
+#content p {
+width:512px;
+text-align:justify;
+font-size:12px;
+font-weight:lighter;
+color:#666666;
+}
+#content p a {
+color:#6A829E;
+}
+#content h2 {
+font-size:18px;
+color:#6A829E;
+font-weight:lighter;
+}
+/*sidebar*/
+#sidebar {
+float:right;
+width:210px;
+}
+.sidebar_item {
+background-color:#FFFFFF;
+padding:4px;
+margin-bottom:8px;
+border:2px #6E87A6 solid;
+}
+.sidebar_item h3 {
+margin: 0 0 8px 0;
+font: 18px "Century Gothic", "Trebuchet MS", Verdana, Arial, Helvetica, bitstream vera, sans-serif;
+color:#6E87A6;
+}
+.sidebar_item ul {
+margin: 0;
+padding:0;
+list-style-type:none;
+font-size:14px;
+color:#666666;
+width:100%;
+}
+.sidebar_item ul li a{
+color:#666666;
+text-decoration:none;
+}
+.sidebar_item ul li a:hover{
+color:#6E87A6;
+text-decoration:underline;
+font-weight:bold;
+}
+.search_box {
+width:190px;
+}
+/*sidebar*/
+#footer {
+clear:both;
+color:#ffffff;
+font-size:11px;
+padding-top:1px;
+}
+#footer a{
+color:#ffffff;
+text-decoration:none;
+}
+
