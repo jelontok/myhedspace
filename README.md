@@ -1,5 +1,6 @@
-[MYHEDSPACE](http://www.myhedspace.com) -  a collection of free open source web design templates written in HTML, CSS, JS, and everything in between
+[MYHEDSPACE](http://www.myhedspace.com) 
 ============================================================================
+a collection of free open source web design templates written in HTML, CSS, JS, and everything in between
 
 Copyright (C) -2012, Jose Erlino M. Lontok
 
